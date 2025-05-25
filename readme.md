@@ -6,10 +6,10 @@
 # Build round 36 Submission: 
 
 ## Submission Title 
-Parametric Insurance Framework
+Flight Delay Parametric Insurance
 
 ## One Sentence Description: (130 characters)
-Parametric insurance framework for any risk market with reliable oracles to automate payouts with smart contracts.
+Parametric insurance framework for any risk, starting with flight delay coverage using reliable oracles and smart contract payouts
 
 ## Project URL:
 https://sentinel-finance.vercel.app/
